@@ -9,6 +9,7 @@ return {
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.go" },
+  { import = "astrocommunity.pack.tailwindcss" },
 
   -- import/override with your plugins folder
 }
