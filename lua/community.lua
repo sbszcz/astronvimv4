@@ -11,6 +11,7 @@ return {
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.templ" },
   { import = "astrocommunity.pack.tailwindcss" },
+  { import = "astrocommunity.pack.ansible" },
 
   -- import/override with your plugins folder
 }
